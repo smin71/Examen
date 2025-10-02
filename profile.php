@@ -16,9 +16,6 @@ $user = htmlspecialchars($_COOKIE['User']);
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-8">
-                <img src="https://static.wikia.nocookie.net/azumanga/images/8/8a/America_Ya.jpg" alt="somethingfunny">
-            </div>
             <div class="container">
                 <div class="row">
                     <div class="col-12">
